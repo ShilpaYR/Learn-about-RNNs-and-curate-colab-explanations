@@ -1,7 +1,7 @@
 # Learn About RNNs and Curate Colab Explanations
 
 **Course:** Deep Learning — CMPE 258  
-**Student:** Shilpa Yelkur Ramakrishna  
+**Student:** Shilpa Yelkur Ramakrishnaiah 
 **Student ID:** 019151782  
 **Assignment Due:** May 10, 2025 by 11:59 PM  
 
@@ -114,4 +114,4 @@ Each YouTube video covers the corresponding notebook code block by code block:
 
 ---
 
-*Shilpa Yelkur Ramakrishna · 019151782 · Deep Learning CMPE 258 · Spring 2025*
+*Shilpa Yelkur Ramakrishnaiah · 019151782 · Deep Learning CMPE 258 · Spring 2025*
