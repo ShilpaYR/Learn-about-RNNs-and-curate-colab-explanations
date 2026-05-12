@@ -114,4 +114,4 @@ Each YouTube video covers the corresponding notebook code block by code block:
 
 ---
 
-*Shilpa Elkur Ramakrishna · 019151782 · Deep Learning CMPE 258 · Spring 2025*
+*Shilpa Yelkur Ramakrishna · 019151782 · Deep Learning CMPE 258 · Spring 2025*
