@@ -1,4 +1,4 @@
-#  Learn About RNNs and Curate Colab Explanations
+# 🧠 Learn About RNNs and Curate Colab Explanations
 
 **Course:** Deep Learning — CMPE 258  
 **Student:** Shilpa Yelkur Ramakrishnaiah  
@@ -8,28 +8,28 @@
 
 ---
 
-##  Overview
+## 📌 Overview
 
 This repository contains four Google Colab notebooks covering core deep learning architectures — executed, explained, and archived with full outputs. For each notebook, a YouTube video was recorded explaining every code block and output in detail. A detailed written report is also included in this repository summarizing all four notebooks, key concepts learned, and the full deliverables.
 
 ---
 
-##  Colab Notebooks & YouTube Videos
+## 📓 Colab Notebooks & YouTube Videos
 
-| # | Notebook | YouTube Video |
-|---|----------|---------------|
-| 1 | [RNN / LSTM / GRU / WaveNet — Zero to Hero](./notebooks/final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb) | [▶ Watch on YouTube](https://youtu.be/LgypN2QRZ8o) |
-| 2 | [10 Years of Deep Learning in NLP](./notebooks/final_nlp_deep_learning_10_years_tutorial.ipynb) | [▶ Watch on YouTube](https://youtu.be/U5kaGbb4624) |
-| 3 | [Vision Transformers — ViT, CLIP, DINOv2, SAM](./notebooks/final_vision_transformers_tutorial.ipynb) | [▶ Watch on YouTube](https://youtu.be/eia2zWUUgOY) |
-| 4 | [GNN Fundamentals — Zero to Hero](./notebooks/final_gnn_fundamentals_tutorial.ipynb) | [▶ Watch on YouTube](https://youtu.be/8lRX_lkbWWU) |
+| # | Notebook | Open in Colab | YouTube Video |
+|---|----------|---------------|---------------|
+| 1 | [RNN / LSTM / GRU / WaveNet — Zero to Hero](https://github.com/ShilpaYR/Learn-about-RNNs-and-curate-colab-explanations/blob/main/final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShilpaYR/Learn-about-RNNs-and-curate-colab-explanations/blob/main/final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb) | [▶ Watch on YouTube](https://youtu.be/LgypN2QRZ8o) |
+| 2 | [10 Years of Deep Learning in NLP](https://github.com/ShilpaYR/Learn-about-RNNs-and-curate-colab-explanations/blob/main/final_nlp_deep_learning_10_years_tutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShilpaYR/Learn-about-RNNs-and-curate-colab-explanations/blob/main/final_nlp_deep_learning_10_years_tutorial.ipynb) | [▶ Watch on YouTube](https://youtu.be/U5kaGbb4624) |
+| 3 | [Vision Transformers — ViT, CLIP, DINOv2, SAM](https://github.com/ShilpaYR/Learn-about-RNNs-and-curate-colab-explanations/blob/main/final_vision_transformers_tutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShilpaYR/Learn-about-RNNs-and-curate-colab-explanations/blob/main/final_vision_transformers_tutorial.ipynb) | [▶ Watch on YouTube](https://youtu.be/eia2zWUUgOY) |
+| 4 | [GNN Fundamentals — Zero to Hero](https://github.com/ShilpaYR/Learn-about-RNNs-and-curate-colab-explanations/blob/main/final_gnn_fundamentals_tutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShilpaYR/Learn-about-RNNs-and-curate-colab-explanations/blob/main/final_gnn_fundamentals_tutorial.ipynb) | [▶ Watch on YouTube](https://youtu.be/8lRX_lkbWWU) |
 
 ---
 
-##  Assignment Report
+## 📄 Assignment Report
 
 A comprehensive written report has been prepared and is included in this repository covering all four notebooks in detail.
 
-**File:** [`Assignment_Report_ShilpaYelkurRamakrishnaiah.pdf`](./Assignment_Report_ShilpaYelkurRamakrishnaiah.pdf)
+**File:** [`Assignment_Report_ShilpaYelkurRamakrishnaiah.pdf`](https://github.com/ShilpaYR/Learn-about-RNNs-and-curate-colab-explanations/blob/main/Assignment_Report_ShilpaYelkurRamakrishnaiah.pdf)
 
 The report includes:
 - Full student and course information
@@ -42,24 +42,23 @@ The report includes:
 
 ---
 
-##  Repository Structure
+## 📁 Repository Structure
 
 ```
 Learn-about-RNNs-and-curate-colab-explanations/
 ├── README.md
 ├── Assignment_Report_ShilpaYelkurRamakrishnaiah.pdf
-└── notebooks/
-    ├── final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb
-    ├── final_nlp_deep_learning_10_years_tutorial.ipynb
-    ├── final_vision_transformers_tutorial.ipynb
-    └── final_gnn_fundamentals_tutorial.ipynb
+├── final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb
+├── final_nlp_deep_learning_10_years_tutorial.ipynb
+├── final_vision_transformers_tutorial.ipynb
+└── final_gnn_fundamentals_tutorial.ipynb
 ```
 
 All notebooks are executed with full outputs visible and archived in this repository.
 
 ---
 
-##  Video Explanations
+## 🎥 Video Explanations
 
 Each YouTube video covers the corresponding notebook code block by code block:
 
@@ -73,7 +72,7 @@ Each YouTube video covers the corresponding notebook code block by code block:
 
 ---
 
-## Key Concepts Covered
+## 🔑 Key Concepts Covered
 
 ### Notebook 1 — RNN / LSTM / GRU / WaveNet
 - Why order matters in sequential data (text, audio, time-series, DNA)
@@ -135,7 +134,7 @@ Each YouTube video covers the corresponding notebook code block by code block:
 
 ---
 
-##  Assignment Checklist
+## ✅ Assignment Checklist
 
 - [x] All 4 notebooks copied to Google Drive with world sharing enabled
 - [x] All 4 notebooks executed with full outputs visible
