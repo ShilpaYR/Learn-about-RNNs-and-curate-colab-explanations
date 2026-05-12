@@ -1,4 +1,4 @@
-# 🧠 Learn About RNNs and Curate Colab Explanations
+# Learn About RNNs and Curate Colab Explanations
 
 **Course:** Deep Learning — CMPE 258  
 **Student:** Shilpa Yelkur Ramakrishna  
@@ -7,13 +7,13 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This repository contains four Google Colab notebooks covering core deep learning architectures — executed, explained, and archived with full outputs. For each notebook, a YouTube video was recorded explaining every code block and output in detail.
 
 ---
 
-## 📓 Colab Notebooks & YouTube Videos
+##  Colab Notebooks & YouTube Videos
 
 | # | Notebook | YouTube Video |
 |---|----------|---------------|
@@ -24,7 +24,7 @@ This repository contains four Google Colab notebooks covering core deep learning
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Learn-about-RNNs-and-curate-colab-explanations/
@@ -40,7 +40,7 @@ All notebooks are executed with full outputs visible and archived in this reposi
 
 ---
 
-## 🎥 Video Explanations
+##  Video Explanations
 
 Each YouTube video covers the corresponding notebook code block by code block:
 
@@ -54,7 +54,7 @@ Each YouTube video covers the corresponding notebook code block by code block:
 
 ---
 
-## 🔑 Key Concepts Covered
+##  Key Concepts Covered
 
 ### Notebook 1 — RNN / LSTM / GRU / WaveNet
 - Why order matters in sequential data
@@ -103,7 +103,7 @@ Each YouTube video covers the corresponding notebook code block by code block:
 
 ---
 
-## ✅ Assignment Checklist
+##  Assignment Checklist
 
 - [x] All 4 notebooks copied to Google Drive with world sharing enabled
 - [x] All 4 notebooks executed with full outputs
